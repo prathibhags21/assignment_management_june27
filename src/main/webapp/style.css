@@ -1,0 +1,164 @@
+
+body{
+	background-image: url(../images/bg.jpg); 
+	background-repeat: no-repeat;
+	background-size: 100% 800px;
+
+}
+
+
+.simple-form
+{
+
+text-align: center;
+margin:100px 400px;
+
+}
+
+.{
+
+margin:0;
+padding:0;
+font-family: Century Gothic;
+}
+
+
+.header
+{
+	background-image: url(../1.jpg); 
+	height:200vh;
+	background-size: cover;
+	background-position: center;
+}
+
+ul li{
+
+	float:right;
+	list-style-type: none;
+	font-size: 50;
+}
+
+ul li a{
+
+text-decoration: none;
+color:#fff;
+padding:5px 20px;
+boarder:1px solid #fff;
+transition: 0.6s ease;
+
+}
+
+.logo img
+{
+	float:left;
+	width :150px;
+	top:10 px;
+	padding:10px 10px;
+	height:auto;
+
+}
+
+.footer{
+
+
+	position:fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: orange;
+  color: white;
+  text-align: center;
+
+}
+
+
+
+#registration{
+
+	width:100%;
+	background-color: #051019;
+	opacity: 0.8;
+	padding: 50px 0px;
+}
+
+#button{
+width:310px;
+padding:10px;
+border-radius: 5px;
+outline: 0px;
+
+}
+
+#ph{
+outline: 0px;
+width:70px;
+padding:10px;
+border-radius: 5px;
+
+}
+
+#phone{
+width:235px;
+padding:10px;
+border-radius: 5px;
+outline: 0px;
+
+
+}
+
+
+#butt{
+
+width:150px;
+padding:10px;
+border-radius: 5px;
+outline: 0px;
+background-color: #0c6996;
+border: 2px solid 0#1010c;
+color: aliceblue;
+font-size: 18px;
+
+}
+
+#rest{
+
+width:150px;
+padding:10px;
+border-radius: 5px;
+outline: 0px;
+background-color: #0c6996;
+border: 2px solid 0#1010c;
+color: aliceblue;
+font-size: 18px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
